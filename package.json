@@ -51,7 +51,7 @@
   "dependencies": {
     "atom-languageclient": "0.9.7",
     "typescript": "^3.1.1",
-    "typescript-language-server": "git@github.com:mattlyons0/typescript-language-server.git"
+    "typescript-language-server": "^0.3.6"
   },
   "enhancedScopes": [
     "source.ts",
